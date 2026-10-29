@@ -33,7 +33,7 @@ game: "Delta Force 🎮"
 <!-- Tech Stack Section -->
 ## 🛠️ My Daily Weapons
 
-
+<!-- Tech Stack Section -->
 ### 💻 Web Trio (The ones that keep me busy)
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -80,7 +80,7 @@ graph LR
     I --> J[😴 Sleep]
     J --> A
 ```
-
+<!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
 
 <!-- Now Playing / Gaming Section -->
