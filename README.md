@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Baruna+Andrean;Frontend+%26+Backend+Explorer+%F0%9F%9A%80;UI%2FUX+Design+Lover+%F0%9F%8E%A8;OpenGL+Tinkerer+%E2%9C%A8;Powered+by+Caffeine+%E2%98%95" alt="Typing Animation" />           
 
   <!-- Banner -->
-  <img src="./asest/banner-github-baru" alt="Banner Baruna Andrean" width="100%" />
+  <img src="./asest/banner-github-baru.png" alt="Banner Baruna Andrean" width="100%" />
 
-  <img src="https://komarev.com/ghpvc/?username=BarunaAndrean&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Baruna240&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
   <!-- Divider Wave -->
   <!-- Animated Header (Asta) -->
@@ -30,8 +30,6 @@ fuel: "Caffeine and the mystery of why my code worked on the first try"
 life_goal: "Create clean code and interfaces that don't confuse users"
 morning_routine: "Trying to consistently jog... mostly from bugs 🏃‍♂️"
 game: "Delta Force 🎮"
-```
-
 <!-- Tech Stack Section -->
 ## 🛠️ My Daily Weapons
 
