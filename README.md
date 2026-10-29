@@ -30,10 +30,12 @@ fuel: "Caffeine and the mystery of why my code worked on the first try"
 life_goal: "Create clean code and interfaces that don't confuse users"
 morning_routine: "Trying to consistently jog... mostly from bugs 🏃‍♂️"
 game: "Delta Force 🎮"
+```
+
 <!-- Tech Stack Section -->
 ## 🛠️ My Daily Weapons
 
-<!-- Tech Stack Section -->
+
 ### 💻 Web Trio (The ones that keep me busy)
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -80,7 +82,7 @@ graph LR
     I --> J[😴 Sleep]
     J --> A
 ```
-<!-- GitHub Stats Section -->
+
 <!-- GitHub Stats Section -->
 
 <!-- Now Playing / Gaming Section -->
@@ -110,10 +112,10 @@ graph LR
   <a href="https://tiktok.com/@_andre135" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="mailto:barunaandrean@email.com" target="_blank">
+  <a href="mailto:barunaandrean4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/BarunaAndrean" target="_blank">
+  <a href="https://github.com/Baruna240" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
